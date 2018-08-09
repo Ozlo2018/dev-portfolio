@@ -1,11 +1,14 @@
 body {
-	/*background-image:url(../images/bg4.jpeg);*/
+	background-image:url(../images/bg9.jpeg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color:#fff;
 	font-family: 'Emblema One', cursive;
-	background-image: url(../images/pattern2.png);
-	background-color: #0070C9;
+	/*background-image: url(../images/pattern4.png);
+	background-image: url(../images/pattern1.png);
+	background-color: #fff;
+	/*background-color: #0070C9;*/*/
+
 */
 }
 
@@ -48,4 +51,34 @@ h2{
 	margin: 0 auto;
 	text-align:center;
 
+}
+
+#ptn1{
+	height:200px;
+	width:250px;
+	border-radius:50%;
+	border-style:solid;
+	border-width:5px;
+	border-color:transparent;
+	margin-left:50px;
+	text-align:center;
+}
+#ptn2{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	border-style:solid;
+	border-width:5px;
+	border-color:transparent;
+	margin-right:50px;
+}
+#ptn3{
+	height:200px;
+	width:200px;
+	border-radius:50%;
+	border-style:solid;
+	border-width:5px;
+	border-color:transparent;
+	margin-left:50px;
+	text-align:center;
 }
